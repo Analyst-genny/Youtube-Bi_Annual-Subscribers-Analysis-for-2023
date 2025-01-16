@@ -1,5 +1,6 @@
 # Youtube-Bi_Annual-Subscribers-Analysis-for-2023
 A comprehensive analysis of Youtube's subscribers carried out in 2 days
+
 THE FOLLOWING WAS OBSERVED
 •	Channel Subscription Leader: T-Series is the leading YouTube channel in subscriber count, indicating its strong influence and dominance in the platform’s global user base.
 •	Global Subscription Hotspot: India remains the top country in terms of YouTube subscribers, followed closely by the United States and South Korea.
