@@ -1,5 +1,7 @@
 # Youtube-Bi_Annual-Subscribers-Analysis-for-2023
 A comprehensive analysis of Youtube's subscribers carried out in 2 days
+![WhatsApp Image 2025-01-17 at 09 57 57_c447bc4a](https://github.com/user-attachments/assets/7fd03f9a-fa05-414f-9212-a51dc3ac7257)
+
 
 THE FOLLOWING WAS OBSERVED
 •	Channel Subscription Leader: T-Series is the leading YouTube channel in subscriber count, indicating its strong influence and dominance in the platform’s global user base.
